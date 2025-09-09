@@ -27,5 +27,3 @@ example:
   directory: "."
   command: "python antivirus.py"
 
-author: "Ton Nom"
-license: "MIT"
