@@ -1,8 +1,5 @@
 name: Antivirus File Scanner
-description: >
-  Petit script Python qui scanne les fichiers d’un répertoire et vérifie leur signature binaire
-  pour détecter des fichiers corrompus ou suspects.
-  Le script compare la signature attendue avec celle présente dans chaque fichier.
+
 usage: |
   python antivirus.py
   # Par défaut, scanne le répertoire courant (.)
